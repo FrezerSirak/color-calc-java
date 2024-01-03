@@ -33,7 +33,7 @@ ColorCalc V3.1 is a simple calculator application with a graphical user interfac
 - Use the numeric keypad to input values.
 - Perform arithmetic operations with the provided buttons.
 - Customize the color scheme using the color buttons.
-- Watch the [demo video](#demo-video) for a visual guide.
+- Watch the [demo video](https://youtu.be/Y9bFHMRzFPE) for a visual guide.
 
 ## Demo Video
 
