@@ -37,9 +37,7 @@ ColorCalc V3.1 is a simple calculator application with a graphical user interfac
 
 ## Demo Video
 
-Check out the demo video to see ColorCalc V3.1 in action:
-
-[![ColorCalc V3.1 Demo](https://example.com/demo_thumbnail.png)](https://example.com/demo_video.mp4)
+Check out the [Video Demo](https://youtu.be/Y9bFHMRzFPE) to see ColorCalc V3.1 in action:
 
 ## License
 
